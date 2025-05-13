@@ -1,0 +1,8 @@
+# Large files
+Deep\ Q\ learning/deepnote_scheme_evaluation_results_20250513-052513.pkl
+Dataset/UNSW_NB15_testing-set.csv
+Dataset/UNSW_NB15_training-set.csv
+
+# PowerShell scripts for setup
+add_remote.ps1
+remote_url.txt 
