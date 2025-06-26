@@ -28,7 +28,14 @@ This research uses the **UNSW-NB15** dataset containing normal network traffic d
 - **Testing data**: All types of attacks
 - **Zero-day evaluation data**: Only Fuzzers and Reconnaissance attacks + normal traffic
 
-> **Note:** Due to GitHub file size limitations, the dataset files (UNSW_NB15_training-set.csv and UNSW_NB15_testing-set.csv) are not included in this repository. Please download them from the [UNSW-NB15 official site](https://research.unsw.edu.au/projects/unsw-nb15-dataset).
+> **Note:** Due to GitHub file size limitations, the following files are not included in this repository:
+> 
+> - Dataset files (UNSW_NB15_training-set.csv and UNSW_NB15_testing-set.csv): Please download them from the [UNSW-NB15 official site](https://research.unsw.edu.au/projects/unsw-nb15-dataset).
+> - Dataset.zip: Contains the compressed dataset files
+> - Deep Q-Learning Output Results ipynb.zip: Contains the output results of the DQN notebooks
+> - Q-Learning Output Results ipynb.zip: Contains the output results of the Q-Learning notebooks
+>
+> The above files were too large for GitHub's standard file size limits. You can access these files through the links provided in the text files within this repository.
 
 ##  Research Results
 
