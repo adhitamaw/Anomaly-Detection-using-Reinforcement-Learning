@@ -1,0 +1,15 @@
+# Ignore large zip files
+DEEP\ Q\ LEARNING/Deep\ Q-Learning\ Output\ Results\ ipynb.zip
+Dataset/Dataset.zip
+Q\ Learning\ and\ other\ model/Q-Learning\ Output\ Results\ ipynb.zip
+
+# Other common files to ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv
+env/
+venv/
+ENV/
